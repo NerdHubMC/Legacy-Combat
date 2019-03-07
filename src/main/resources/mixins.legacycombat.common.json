@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "nerdhub.legacycombat.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+      "MixinPlayer"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

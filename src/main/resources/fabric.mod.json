@@ -1,0 +1,10 @@
+{
+  "id": "legacycombat",
+  "name": "Legacy Combat",
+  "description": "Swing your weapons with pride no more cooldowns for you just like the times of ancient MC",
+  "version": "${version}",
+  "side": "universal",
+  "mixins": {
+    "common": "mixins.legacycombat.common.json"
+  }
+}
